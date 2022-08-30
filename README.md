@@ -6,4 +6,3 @@
 This repository contains code developed as part of my Geophysics MSci Master's project exploring the limitations of full-waveform inversion due to elastic effects. Specifically, this code can be used to model reflection coefficients, conduct monte carlo simulations to explore the parameter space, and convert reflection coefficients into finite frequency synthetic seismograms for a simple two layer model. For a theoretical description of the problem, and a demo of the code, please see the following Jupyter Notebook:
 
 [Demo Notebook](https://nbviewer.jupyter.org/github/GeorgeWilliamStrong/ARC-Seismic/blob/main/ARC-seismic%20demo.ipynb?flush_cache=true)
-
